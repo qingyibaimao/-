@@ -1,6 +1,8 @@
 # keras-yolo3
-
-参考博客：
+注:参考博客https://cungudafa.blog.csdn.net/article/details/105137889
+          https://blog.csdn.net/cungudafa/article/details/105074825
+以及大佬的github：https://github.com/bubbliiiing/yolo3-keras ，此readme就是github自动引入的该大佬的文章
+  
 
 [【Yolo3】一文掌握图像标注、训练、识别（Keras+TensorFlow-gpu）](https://cungudafa.blog.csdn.net/article/details/105074825)
 
